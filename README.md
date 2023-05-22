@@ -43,8 +43,14 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
  
  
  🎥 Regarder des films au cinéma et découvrir de nouveaux genres cinématographiques.
+ 
+ 
  🎾 Jouer au padel, un sport que j'apprécie particulièrement.
+ 
+ 
  🎮 Jouer à des jeux vidéos pour me détendre et me divertir.
+ 
+ 
 
 N'hésitez pas à me contacter si vous partagez ces intérêts ou si vous avez des recommandations de films ou de jeux vidéos à partager !
 
