@@ -11,7 +11,7 @@ Je suis toujours enthousiaste à l'idée d'apprendre de nouvelles choses et de r
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités de collaboration.<br>
 📫 [mathieu.soussignan@hotmail.fr](mailto:mathieu.soussignan@hotmail.fr)
  
- 🧾 https://soussignan.netlify.app/
+ 🧾 https://www.mathieu-soussignan.com
 
 <h3>Compétences :</h3>
 
