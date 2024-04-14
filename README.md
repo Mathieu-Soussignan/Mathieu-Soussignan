@@ -30,6 +30,7 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 ![Linux](https://img.shields.io/badge/Linux-%2335ad3b.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-%2320232a.svg?style=for-the-badge&logo=webflow&logoColor=%23FFD7D7)
+![Relume.io](https://img.shields.io/badge/-Relume.io-563D7C?style=for-the-badge)
 
 <h3>Outils utilisés :</h3>
 
