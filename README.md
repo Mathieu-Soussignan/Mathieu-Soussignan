@@ -29,6 +29,7 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%2335ad3b.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-%2320232a.svg?style=for-the-badge&logo=webflow&logoColor=%23FFD7D7)
 
 <h3>Outils utilisés :</h3>
 
