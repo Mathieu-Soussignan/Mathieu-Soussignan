@@ -9,7 +9,7 @@ Mon objectif est de créer des expériences web exceptionnelles en utilisant les
 Je suis actuellement en formation dans le domaine du développement web et web mobile, où j'ai acquis de solides compétences en HTML, CSS, JavaScript et plus encore.<br>
 Je suis toujours enthousiaste à l'idée d'apprendre de nouvelles choses et de relever de nouveaux défis.<br>
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités de collaboration.<br>
-📫 [mathieu.soussignan@hotmail.fr](mailto:mathieu.soussignan@hotmail.fr)
+📫 [contact@mathieu-soussignan.com](mailto:contact@mathieu-soussignan.com)
  
  🧾 https://www.mathieu-soussignan.com
 
