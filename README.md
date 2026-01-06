@@ -51,6 +51,7 @@ Curieux et pragmatique, j’aime apprendre en construisant, itérer rapidement e
 - 🛠️ **Migration d'une application de prédiction de prix de voitures d'occasion vers une architecture FastAPI + React**
 - 📈 **Exploration et visualisation de données avec Pandas, Seaborn et Matplotlib**
 - 🛡️ **Développement d'une API REST sécurisée avec FastAPI et PostgreSQL**
+- 💰 **Creator Comptability — application de comptabilité pour créateurs (Streamlit + Supabase)**
 
 <h3>🎮 Pendant mon temps libre, j'aime :</h3>
 
