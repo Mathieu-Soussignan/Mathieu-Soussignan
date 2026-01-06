@@ -4,11 +4,13 @@
 
 <h3>👋 Bienvenue sur mon profil GitHub !</h3>
 
-Je suis **Mathieu Soussignan**, un développeur passionné par le **web** et **l'intelligence artificielle**, basé à **Marseille**.<br>
-Actuellement en **alternance** et en formation à l'**École IA Microsoft by Simplon**, je me spécialise dans le développement de **solutions IA innovantes** tout en consolidant mes compétences en **développement web**.<br>
+Je suis Mathieu Soussignan, développeur orienté web, data (Talend) et intelligence artificielle, basé à Marseille.<br>
 
-Mon objectif est de **créer des expériences numériques impactantes** et des **solutions basées sur l'IA** qui transforment des **idées complexes en réalités accessibles**.<br>
-Toujours enthousiaste à l'idée d'apprendre de nouvelles technologies et de relever des défis stimulants.<br>
+En alternance chez Keyrus et en formation à l’École IA Microsoft by Simplon, je conçois des applications web modernes et j’intègre l’IA quand elle apporte un gain concret (automatisation, aide à la décision, meilleure expérience utilisateur).<br>
+
+Mon objectif : créer des produits numériques utiles, fiables et déployables — des APIs et interfaces propres, jusqu’aux modèles et pipelines data — pour transformer des idées ambitieuses en solutions accessibles.<br>
+
+Curieux et pragmatique, j’aime apprendre en construisant, itérer rapidement et relever des défis techniques en équipe.<br>
 
 📧 **Me contacter :**<br>
 📫 [contact@mathieu-soussignan.com](mailto:contact@mathieu-soussignan.com)<br>
